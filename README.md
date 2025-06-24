@@ -7,11 +7,8 @@ This repository contains a collection of Python scripts related to data preproce
 - `algorithm1.py`: Main algorithm implementation.
 - `algorithm1_full_NLP.py` : Full NLP-based algorithm implementation.
 - `algorithm1_onestep.py` : One-step algorithm implementation.
-<<<<<<< HEAD
-- `algorithm2.py` : Submitted version of algorithm 2.
-=======
-- `algorithm2.py` : algorithm 2.
->>>>>>> c9f4757c73392663062b5e8932d80be4d977585c
+- `algorithm2.py` : Algorithm 2.
+
 - `dlqr.py` : Discrete-time linear quadratic regular algorithm.
 - `Dparameterin.py` : Parameter input script.
 
